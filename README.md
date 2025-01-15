@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there👋 My name is Gaurav, I am currently studying Artificial Intelligence at St. Francis Xavier University.<br><br>I am a Machine Learning enthusiast with a strong focus on medical datasets. My research revolves around applying ML models to healthcare and medical data.<br>I am a huge fan of df-analyze - You should try it, I bet you will love it.
+Hi there👋 My name is Gaurav, I am currently studying Artificial Intelligence at St. Francis Xavier University.<br><br>I am a Machine Learning enthusiast with a strong focus on medical datasets. My research revolves around applying ML models to healthcare and medical data.<br>I am a fan of df-analyze - You should try it, I bet you will love it.
 
 
 ## 🌐 Socials:
